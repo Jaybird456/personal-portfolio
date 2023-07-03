@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div>
       <hr className="border-solid border-1 border-red-600" />
-      <div className='flex justify-end items-center m-4 p-4'>
+      <div className='flex justify-end items-center p-4'>
         <div className="m-2 p-2">
           <a href="https://github.com/Jaybird456" target="_blank"><FaGithub  size={40} color='#DC2626' /></a>
         </div>

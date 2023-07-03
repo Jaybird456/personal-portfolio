@@ -12,7 +12,6 @@ export const skills = [
     {name: 'JavaScript', icon: <SiJavascript size={60} color='#DC2626' />, },
     {name: 'Typescript', icon: <SiTypescript size={60} color='#DC2626' />, },
     {name: 'React', icon: <FaReact size={60} color='#DC2626' />, },
-    {name: 'Java', icon: <FaJava size={60} color='#DC2626'/>, },
     {name: 'Python', icon: <FaPython size={60} color='#DC2626' />, },
     {name: 'WordPress', icon: <FaWordpress size={60} color='#DC2626' />, },
     {name: 'VS Code', icon: <SiVisualstudiocode size={60} color='#DC2626' />, },
